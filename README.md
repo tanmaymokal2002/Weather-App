@@ -1,2 +1,1 @@
-# JS_Weather-App
-This is a Weather App using Javascript
+This is a Weather App, built using Javascript. This app will show you weather in your area.
